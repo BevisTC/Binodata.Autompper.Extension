@@ -32,7 +32,6 @@ namespace Binodata.Automapper.Extension
         {
             IMapper mapper = config.CreateMapper();
             return mapper.Map<From, To>(source);
-
         }
     }
 }
