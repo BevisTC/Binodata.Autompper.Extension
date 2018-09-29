@@ -1,14 +1,14 @@
 # Binodata.Autompper.Extension
 This is a project extension for automapper
 
-##Dependency
+## Dependency
 * [AutoMapper 7.0.1](https://www.nuget.org/packages/automapper/)
 
 
 
-##How To Use 
+## How To Use 
 
-###Example
+### Example
 
 ```C#
 
